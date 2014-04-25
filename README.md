@@ -1,4 +1,4 @@
-ipkeeper
+IP Keeper
 ========
 
-Application to store ip addresses
+Use IP Keeper to store IP addresses of different servers including authentication details.
