@@ -11,6 +11,11 @@ Run the program as
 
 java -jar ipkeeper.jar [tag] [credentials_file]
 
+Compile as
+
+mvn compile assembly:single
+
+
 The credentials file should contain the access key and access secret in the following format:
 
 [Access_Key]
