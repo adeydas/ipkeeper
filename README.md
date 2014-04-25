@@ -1,7 +1,7 @@
 IP Keeper
 ========
 
-Search for EC2 instance details based on tags (full and partial matches).
+Search for EC2 instance details based on the "Name" tag (full and partial matches).
 
 
 How to use it
@@ -21,3 +21,7 @@ Support
 =======
 Feature requests/questions: http://abhis.ws:9090/browse/IP/
 
+
+Thanks
+======
+To Sudhanshu Iyer for the idea (siyer.info)
