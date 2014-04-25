@@ -1,4 +1,4 @@
 IP Keeper
 ========
 
-Use IP Keeper to store IP addresses of different servers including authentication details.
+Search for EC2 instance details based on tags and partial IP addresses.
